@@ -18,11 +18,15 @@
 <details>
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
-    <a href="https://github.com/gpeter28/github-readme-stats"><img alt="Gpeter28's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=gpeter28&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3" height="192px"/></a>
-  <a href="https://github.com/gpeter28/github-readme-stats"><img alt="Gpeter28's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gpeter28&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&hide=Jupyter%20Notebook" height="192px"/></a>
+    <a href="https://github.com/gpeter28/github-readme-stats"><img alt="Gpeter28's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=gpeter28&show_icons=true&count_private=true&theme=radical&hide_border=true&title_color=2f80ed" height="192px"/></a>
+  <a href="https://github.com/gpeter28/github-readme-stats"><img alt="Gpeter28's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gpeter28&langs_count=8&layout=compact&theme=radical&hide_border=true&title_color=2f80ed" height="192px"/></a>
   <br/>
  </details>
-
+ 
+<!-- <a href="https://github.com/gpeter28/github-readme-stats"><img alt="Gpeter28's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gpeter28&langs_count=8&layout=compact&theme=radical&hide_border=true" height="192px"/></a>
+<!-- little blue color=2f80ed
+<!--      _border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3>
+<!--      _border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&hide=Jupyter%20Notebook">
 
 
 
