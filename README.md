@@ -2,6 +2,10 @@
 
 🔭 I’m currently working on [EasyEnvironment](https://github.com/Gpeter28/EasyEnvironment)
 
+😄 Studying Unity And Unreal Engine
+
+⚡ Want to be a Game Designer
+
 
 
 
@@ -11,6 +15,7 @@
 <p>
 <a href="https://bing.com/search?q=csharp"><img alt="C#" src="https://custom-icon-badges.herokuapp.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
 </p>
+<b>Note:</b> Learning More Language is good
 
 
 ## 💪 Trying To Become Better
