@@ -6,6 +6,8 @@
 
 ⚡ Want to be a Game Designer
 
+👯 The Goal is the make a own Indie Games
+
 
 
 
