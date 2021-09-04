@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working on [EasyEnvironment](https://github.com/Gpeter28/EasyEnvironment)
+🔭 I’m currently working a project call [EasyEnvironment](https://github.com/Gpeter28/EasyEnvironment)
 
 😄 Studying Unity And Unreal Engine
 
