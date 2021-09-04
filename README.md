@@ -19,6 +19,9 @@
 </p>
 <b>Note:</b> Learning More Language is good
 
+#### Learning languages
+golang, cpp, java
+
 
 ## 💪 Trying To Become Better
 <!-- https://github.com/anuraghazra/github-readme-stats -->
