@@ -6,7 +6,7 @@
 
 😄 have the honor to participate Tencent 2021 Games Open Course For College Students.First Interview that i passed:)  
 
-    Good Start! Keep Going!
+🌱 Good Start! Keep Going!
 
 ⚡ Want to be a Game Designer
 
