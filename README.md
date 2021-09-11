@@ -4,7 +4,9 @@
 
 😄 Studying Unity And Unreal Engine
 
-⚡ Want to be a Game Designer(have the honor to participate Tencent 2021 Games Open Course For College Students.First Interview that i passed:)  Good Start Keep Going!)
+⚡ Want to be a Game Designer
+
+😄 have the honor to participate Tencent 2021 Games Open Course For College Students.First Interview that i passed:)  Good Start! Keep Going!
 
 👯 The Goal is the make a own Indie Games
 
