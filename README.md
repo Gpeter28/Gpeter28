@@ -26,6 +26,8 @@
 #### Learning languages
 golang, cpp, java
 
+##### Now Working For Boaring Bank. Very Disappointed. Feels Bad Man :(. When can self atonement? Probably the day i died. :)
+
 
 ## 💪 Trying To Become Better
 <!-- https://github.com/anuraghazra/github-readme-stats -->
